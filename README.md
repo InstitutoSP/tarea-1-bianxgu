@@ -22,3 +22,4 @@ Deben crear una página web que contenga tres artículos relacionados con el tem
 ## Evaluación
 
 Acá deben incluir una breve descripción y quienes trabajaron.
+Realizamos la parte visual de una pagina web con la tematica inteligencia artificial.Biurriarena Pia,Gutierrez Bianca
